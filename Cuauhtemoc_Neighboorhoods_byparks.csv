@@ -1,0 +1,34 @@
+Name,FolderPath,Shape_Leng,Shape_Area,Delegacion,Numberofpa,Averagerating,Nparksnormalized,Arnormalized
+CENTRO,Colonias/Colonias,0.09944793,0.00043106,Cuauhtemoc,9,8.0,1,0.86
+ROMA NORTE,Colonias/Colonias,0.070864606,0.000202872,Cuauhtemoc,2,7.4,0.22,0.79
+CUAUHTEMOC,Colonias/Colonias,0.048891745,0.000105573,Cuauhtemoc,2,6.7,0.22,0.72
+GUERRERO,Colonias/Colonias,0.049484056,0.000131179,Cuauhtemoc,2,8.1,0.22,0.87
+ROMA SUR,Colonias/Colonias,0.046889725,0.00012134,Cuauhtemoc,1,0,0.11,0
+HIPODROMO,Colonias/Colonias,0.049318496,9.59003E-05,Cuauhtemoc,1,9,0.11,0.96
+CONDESA,Colonias/Colonias,0.034500691,5.7234E-05,Cuauhtemoc,1,9.3,0.11,1
+JUAREZ,Colonias/Colonias,0.068148461,0.000128062,Cuauhtemoc,1,0,0.11,0
+MORELOS,Colonias/Colonias,0.047392086,0.000102968,Cuauhtemoc,1,5.3,0.11,0.56
+BUENAVISTA,Colonias/Colonias,0.042916769,9.33523E-05,Cuauhtemoc,1,0,0.11,0
+SANTA MARIA LA RIBERA,Colonias/Colonias,0.050156704,0.000155455,Cuauhtemoc,1,0,0.11,0
+PERALVILLO,Colonias/Colonias,0.039604916,7.48313E-05,Cuauhtemoc,1,5.7,0.11,0.61
+ASTURIAS,Colonias/Colonias,0.026390802,2.43472E-05,Cuauhtemoc,0,0,0,0
+BUENOS AIRES,Colonias/Colonias,0.026830421,2.96921E-05,Cuauhtemoc,0,0,0,0
+ALGARIN,Colonias/Colonias,0.025585347,3.33219E-05,Cuauhtemoc,0,0,0,0
+Ampl. ASTURIAS,Colonias/Colonias,0.023687432,2.77775E-05,Cuauhtemoc,0,0,0,0
+HIPODROMO CONDESA,Colonias/Colonias,0.025489567,3.09938E-05,Cuauhtemoc,0,0,0,0
+VISTA ALEGRE,Colonias/Colonias,0.021524696,1.90508E-05,Cuauhtemoc,0,0,0,0
+PAULINO NAVARRO,Colonias/Colonias,0.020033478,1.66681E-05,Cuauhtemoc,0,0,0,0
+OBRERA,Colonias/Colonias,0.047972586,0.000136224,Cuauhtemoc,0,0,0,0
+ESPERANZA,Colonias/Colonias,0.017050015,1.48461E-05,Cuauhtemoc,0,0,0,0
+TRANSITO,Colonias/Colonias,0.033711252,5.40236E-05,Cuauhtemoc,0,0,0,0
+DOCTORES,Colonias/Colonias,0.061417367,0.000215758,Cuauhtemoc,0,0,0,0
+TABACALERA,Colonias/Colonias,0.03455835,4.67493E-05,Cuauhtemoc,0,0,0,0
+SAN RAFAEL,Colonias/Colonias,0.038817426,9.10101E-05,Cuauhtemoc,0,0,0,0
+FELIPE PESCADOR,Colonias/Colonias,0.018981819,1.25807E-05,Cuauhtemoc,0,0,0,0
+MAZA,Colonias/Colonias,0.012310667,8.79715E-06,Cuauhtemoc,0,0,0,0
+NONOALCO TLATELOLCO,Colonias/Colonias,0.047311972,8.03439E-05,Cuauhtemoc,0,0,0,0
+EX HIPODROMO DE PERALVILLO,Colonias/Colonias,0.032935025,5.65281E-05,Cuauhtemoc,0,0,0,0
+VALLE GOMEZ,Colonias/Colonias,0.01731239,1.76797E-05,Cuauhtemoc,0,0,0,0
+ATLAMPA,Colonias/Colonias,0.044563841,9.50212E-05,Cuauhtemoc,0,0,0,0
+SAN SIMON TOLNAHUAC,Colonias/Colonias,0.02847495,4.36047E-05,Cuauhtemoc,0,0,0,0
+SANTA MARIA INSURGENTES,Colonias/Colonias,0.0323211,3.91817E-05,Cuauhtemoc,0,0,0,0
